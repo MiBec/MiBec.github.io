@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Radoslava
+first_name: Michal
 middle_name:
-last_name: Švihrová
-email: rsvihrova@gmail.com
+last_name: Bechný
+email: bechnymichal@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -42,12 +42,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: RadoslavaS # your GitHub user name
+github_username: MiBec # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: RSvihrova # your Twitter handle
-linkedin_username: /svihrova/ # your LinkedIn user name
-scholar_userid: GIO4zBwAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-1078-8834 # your ORCID ID
+twitter_username: # your Twitter handle
+linkedin_username: /michal-bechny/ # your LinkedIn user name
+scholar_userid: ctnJXnQAAAAJ # your Google Scholar ID
+orcid_id: 0009-0006-0845-1844 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -76,7 +76,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: RadoslavaS # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -142,8 +142,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Švihrová
-  first_name: [Radoslava]
+  last_name: Bechný
+  first_name: [Michal]
 
   style: apa
   locale: en
